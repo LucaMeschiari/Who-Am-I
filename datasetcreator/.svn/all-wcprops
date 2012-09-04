@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CS7048-1112-31/!svn/ver/28/BasicSimulationFloat/src/com/cs7048/simulation/datasetcreator
+END
+basicSetCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CS7048-1112-31/!svn/ver/24/BasicSimulationFloat/src/com/cs7048/simulation/datasetcreator/basicSetCreator.java
+END
+DataSetCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CS7048-1112-31/!svn/ver/28/BasicSimulationFloat/src/com/cs7048/simulation/datasetcreator/DataSetCreator.java
+END
+Simulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CS7048-1112-31/!svn/ver/24/BasicSimulationFloat/src/com/cs7048/simulation/datasetcreator/Simulator.java
+END
+DataSetCreatorTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CS7048-1112-31/!svn/ver/27/BasicSimulationFloat/src/com/cs7048/simulation/datasetcreator/DataSetCreatorTester.java
+END
+DeviationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CS7048-1112-31/!svn/ver/24/BasicSimulationFloat/src/com/cs7048/simulation/datasetcreator/DeviationGenerator.java
+END

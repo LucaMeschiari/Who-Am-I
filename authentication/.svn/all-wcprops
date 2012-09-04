@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CS7048-1112-31/!svn/ver/20/BasicSimulationFloat/src/com/cs7048/simulation/authentication
+END
+ConfidenceCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CS7048-1112-31/!svn/ver/20/BasicSimulationFloat/src/com/cs7048/simulation/authentication/ConfidenceCalculator.java
+END
+ThresholdAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CS7048-1112-31/!svn/ver/20/BasicSimulationFloat/src/com/cs7048/simulation/authentication/ThresholdAuthenticator.java
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CS7048-1112-31/!svn/ver/20/BasicSimulationFloat/src/com/cs7048/simulation/authentication/Authenticator.java
+END
+ConfidenceCalculatorAverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CS7048-1112-31/!svn/ver/20/BasicSimulationFloat/src/com/cs7048/simulation/authentication/ConfidenceCalculatorAverage.java
+END

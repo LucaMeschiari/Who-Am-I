@@ -1,0 +1,25 @@
+package com.cs7048.simulation.datasetcreator;
+
+import java.io.IOException;
+
+import com.cs7048.simulation.datastructures.AuthenticationDataClass;
+import com.cs7048.simulation.utils.Printer;
+
+public class DataSetCreatorTester {
+
+	/**
+	 * @param args
+	 * @throws IOException
+	 */
+	public static void main(String[] args) throws IOException {
+		DataSetCreator dsCreator = new DataSetCreator();
+		// AuthenticationDataClass[] dataSet = dsCreator.firstDataset();
+		AuthenticationDataClass[] dataSet = dsCreator
+				.threePathsWithShiftsDataset();
+		Printer printer = new Printer();
+
+		printer.printDataset(dataSet);
+
+	}
+
+}
