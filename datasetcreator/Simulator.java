@@ -9,16 +9,10 @@ import com.cs7048.simulation.datastructures.AuthenticationDataClass;
 
 public class Simulator {
 
-	/**
-	 * @param args
-	 * @throws IOException
-	 */
-
 	static PrintWriter out;
 	static PrintWriter out2;
 
-	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) throws IOException {w
 		int nRecord = 10;
 		int totNodes = 1000;
 		int maxSetDeviation = 50;

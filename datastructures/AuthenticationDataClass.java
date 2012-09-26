@@ -3,9 +3,7 @@ package com.cs7048.simulation.datastructures;
 import java.util.ArrayList;
 
 public class AuthenticationDataClass implements AuthenticationData {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = -4434106899357760458L;
 	public String userId;
 	public boolean altAuth = true;

@@ -1,9 +1,7 @@
 package com.cs7048.simulation.datastructures;
 
 public class NodeRelationsClass implements NodeRelations {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = -8339399415449006483L;
 	int firstNode;
 	int secondNode;

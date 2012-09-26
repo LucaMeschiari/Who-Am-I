@@ -1,3 +1,7 @@
+// Luca Meschiari & Matthew Byrne
+// Class used to test the system and gather statistical results
+//
+
 package com.cs7048.simulation;
 
 import com.cs7048.simulation.authentication.Authenticator;
@@ -14,10 +18,6 @@ import com.cs7048.simulation.utils.Printer;
 import com.cs7048.simulation.utils.StatsManager;
 
 public class SystemSimulator {
-	/**
-	 * @param args
-	 */
-	//Add again DBDeletion and isAlthAtuth = true
 	
 	public static void main(String[] args) {
 		// Set up functionality to calculate confidence in user Id.
@@ -56,7 +56,7 @@ public class SystemSimulator {
 
 		for (int i = 0; i < dataSet.length; i++) {
 
-			// Get "track record" (haha) for specific path.
+			// Get "track record" for specific path.
 			float pairWeights[] = graphManager
 					.getRelationshipWeightsForPath(dataSet[i]);
 
@@ -87,7 +87,6 @@ public class SystemSimulator {
 
 		statsMan.printStats();
 		System.out.print("\n\nSIMULATION ENDED");
-		// TODO statsGatherer for after initial simulation;
 	}
 
 	private static boolean isAlternativeAuth() {
